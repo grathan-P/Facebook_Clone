@@ -5,11 +5,6 @@ The primary focus of this project is understanding layout structure, mobile-firs
 
 ---
 
-## Live Demo
-🔗 https://grathan-P.github.io/Facebook_SiginAndLoginPage_Clone-Responsive-/
-
----
-
 ## Tech Stack
 - **HTML5**
 - **Tailwind CSS**
