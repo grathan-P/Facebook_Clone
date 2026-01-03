@@ -47,16 +47,6 @@ All design credits belong to **Meta / Facebook**.
 
 ---
 
-## Deployment
-This project is deployed using **GitHub Pages**.
-
-Steps:
-1. Push the project to a GitHub repository
-2. Enable GitHub Pages from repository settings
-3. Use relative paths for assets
-
----
-
 ## 👤 Author
 **Grathan P Bangera**  
 Computer Science & Engineering Student  
