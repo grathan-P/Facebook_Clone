@@ -2,16 +2,24 @@
   "name": "facebook_clone",
   "version": "1.0.0",
   "description": "This project is a responsive UI recreation of Facebook’s login/sign-up page, built using **HTML** and **Tailwind CSS**.  \r The primary focus of this project is understanding layout structure, mobile-first responsiveness, and footer wrapping behavior.",
-  "main": "vite.config.js",
+  "main": "tailwind.config.js",
    "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grathan-P/Facebook_Clone.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/grathan-P/Facebook_Clone/issues"
+  },
+  "homepage": "https://github.com/grathan-P/Facebook_Clone#readme",
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "postcss": "^8.5.6",
