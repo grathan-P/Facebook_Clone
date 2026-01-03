@@ -5,6 +5,14 @@ The primary focus of this project is understanding layout structure, mobile-firs
 
 ---
 
+# Want to run in ur Desktop
+- **Create a folder in our drive**
+- **Clone the Repo** : Run the below command in your bash
+  ```bash
+   git clone https://github.com/grathan-P/Facebook_Clone.git
+  ```
+- **Run Facebook Signin/Login Page** : Under dist folder, right click on index and click on open with browser or open with live server 
+
 ## Tech Stack
 - **HTML5**
 - **Tailwind CSS**
